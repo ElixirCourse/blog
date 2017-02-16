@@ -121,10 +121,10 @@ Erlang е езикът с който са написани голяма част
 Също така е доста лесно да си публикувате библиотека или да генерирате скелета ѝ с тях.
 
 Интересни връзки:
-* Добро място за задаване на въпроси или просто четене на мнения е https://elixirforum.com/
-* Списък с компании които се занимават с Elixir - https://github.com/doomspork/elixir-companies
-* Библиотеки на Elixir по категории - https://github.com/h4cc/awesome-elixir
-* Главна страница на Elixir - http://elixir-lang.org/
+* Добро място за задаване на въпроси или просто четене на мнения е [https://elixirforum.com](https://elixirforum.com)
+* Списък с компании които се занимават с Elixir - [https://github.com/doomspork/elixir-companies](https://github.com/doomspork/elixir-companies)
+* Библиотеки на Elixir по категории - [https://github.com/h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir)
+* Главна страница на Elixir - [http://elixir-lang.org](http://elixir-lang.org)
 
 ## Защо Elixir? Заради синтаксиса!
 
@@ -257,7 +257,7 @@ end
 framework който спомага за наблюдение и управление на процеси, как и кога да ги рестартира или съживи.
 Ако ви е интересна темата, започнете да учите Elixir.
 
-Един много удобен, полезен и интересен линк свързан със синтаксиса -> https://media.pragprog.com/titles/elixir/ElixirCheat.pdf
+Един много удобен, полезен и интересен линк свързан със синтаксиса -> [https://media.pragprog.com/titles/elixir/ElixirCheat.pdf](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 
 ## <a name="answer"></a>Защо Elixir?
 
