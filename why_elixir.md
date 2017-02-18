@@ -161,7 +161,7 @@ f.(3)
 
 ```elixir
 5               # -> integer
-0x53            # -> integer, the same as 83
+0xcafe          # -> integer, the same as 51966
 5.5             # -> float
 false           # -> boolean
 :dalia          # -> atom
