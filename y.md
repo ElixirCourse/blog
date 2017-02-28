@@ -1,3 +1,4 @@
+title_image_path: spiral.png
 category: Advanced
 tags:
   - recursion
