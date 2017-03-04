@@ -11,11 +11,11 @@ tags:
 
 ## Ресурси
 
-Линк към блога ни: http://blog.elixir-lang.bg
+Линк към блога ни: <http://blog.elixir-lang.bg>
 
-Линк към Facebook групата ни: https://www.facebook.com/groups/636900123169076/
+Линк към Facebook групата ни: <https://www.facebook.com/groups/636900123169076/>
 
-Линк към GitHub организацията ни: https://github.com/ElixirCourse
+Линк към GitHub организацията ни: <https://github.com/ElixirCourse>
 
 Можете да задавате въпроси на имейла: [course@elixir-lang.bg](mailto:course@elixir-lang.bg)
 
@@ -62,5 +62,5 @@ tags:
 * Скала за оценяване
 
 |Оценнка|2|3|4|5|6|
-|-|-|-|-|-|-|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 |Точки|0 - 49|50 - 57|58 - 74|75 - 91|92 -&infin;|
