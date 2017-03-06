@@ -31,6 +31,8 @@ tags:
 
 - Точки 4
 
+- [Примерно решение](https://github.com/ElixirCourse/task-one/blob/master/task.exs)
+
 ## Теми
 
 ### 1. Защо Elixir?
