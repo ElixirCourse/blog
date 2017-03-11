@@ -51,6 +51,12 @@ tags:
     - [рекурсия с анонимни функции (или как да си направим Y-комбинатор)](https://blog.elixir-lang.bg/posts/y)
 
 
+### 3. Модули, функции и рекурсия
+
+- [блог](https://elixir-lang.bg/posts/modules_functions_recursion)
+
+- [презентация](https://gitpitch.com/ElixirCourse/modules-functions-recursion-presentation)
+
 ## Оценяване
 
 - Максимум 100 точки:
