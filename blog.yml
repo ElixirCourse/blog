@@ -1,2 +1,4 @@
-title: Блог на курса по Elixir
+title: Курс по Elixir
 sub_title: Статии по темите преподавани в курса по Elixir във ФМИ
+logo_path: elixir_header_logo.png
+styles_path: blog.css
