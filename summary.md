@@ -1,4 +1,4 @@
-category: Програма
+category: Summary
 tags:
   - elixir
   - pinned
