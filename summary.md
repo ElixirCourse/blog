@@ -33,6 +33,14 @@ tags:
 
 - [Примерно решение](https://github.com/ElixirCourse/task-one/blob/master/task.exs)
 
+### Задача 2
+
+- [Условие](https://blog.elixir-lang.bg/posts/task_two)
+
+- Краен срок 23:59 03.04.2017 г.
+
+- Точки 9
+
 ## Теми
 
 ### 1. Защо Elixir?
@@ -42,6 +50,7 @@ tags:
 - [презентация](https://gitpitch.com/ElixirCourse/why-elixir-presentation)
 
 ### 2. Типове и съпоставяне на образци
+
 - [блог](https://blog.elixir-lang.bg/posts/pattern_matching_types_and_basics)
 
 - [презентация](https://gitpitch.com/ElixirCourse/types-and-pattern-matching-presentation)
@@ -56,6 +65,29 @@ tags:
 - [блог](https://elixir-lang.bg/posts/modules_functions_recursion)
 
 - [презентация](https://gitpitch.com/ElixirCourse/modules-functions-recursion-presentation)
+
+
+### 4. Създаване и подържане на проекти с Mix
+
+### 5.1. Низове и binaries
+
+- [блог за binaries](https://elixir-lang.bg/posts/binaries)
+
+- [блог за низов](https://elixir-lang.bg/posts/strings)
+
+- [презентация](https://gitpitch.com/ElixirCourse/binaries_and_strings_presentation)
+
+### 5.2. Речници, структури и протоколи
+
+- [блог за речници и стуктури](https://elixir-lang.bg/posts/maps_structs)
+
+- [блог за протоколи](https://elixir-lang.bg/posts/protocols)
+
+- [презентация](https://gitpitch.com/ElixirCourse/maps_structs_protocols_presentation)
+
+### 6. Списъци, потоци и рекурсия
+
+- [презентация](https://gitpitch.com/ElixirCourse/list-streams-presentation)
 
 ## Оценяване
 
