@@ -1,7 +1,7 @@
 category: Summary
+pinned: true
 tags:
   - elixir
-  - pinned
 
 --------
 
