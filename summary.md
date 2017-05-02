@@ -39,7 +39,9 @@ tags:
 
 - Краен срок 23:59 03.04.2017 г.
 
-- Точки 9
+- Точки 9(+1)
+
+- [Примерно решение](https://github.com/ElixirCourse/task-two/)
 
 ## Теми
 
@@ -87,7 +89,29 @@ tags:
 
 ### 6. Списъци, потоци и рекурсия
 
+- [блог](https://elixir-lang.bg/posts/lists_streams_recursion)
+
 - [презентация](https://gitpitch.com/ElixirCourse/list-streams-presentation)
+
+### 7.1. Контролни структури
+
+- [блог](https://elixir-lang.bg/posts/lists_streams_recursion)
+
+### 7.2. Грешки
+
+- [блог](https://elixir-lang.bg/posts/exceptions)
+
+### 7.3. Вход и изход
+
+- [блог](https://elixir-lang.bg/posts/input_output)
+
+### 8. Процеси
+
+- [блог](https://elixir-lang.bg/posts/processes)
+
+### 9. Устройство и комуникация между процеси
+
+- [блог](https://elixir-lang.bg/posts/process_internals)
 
 ## Оценяване
 
