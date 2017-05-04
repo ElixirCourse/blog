@@ -46,7 +46,7 @@ Table.new([[1, 2, 3],
 | 1 | 2 | 3 |
 |-|-|-|
 | a | b | c |
-
+{: .table}
 
 ```elixir
 Table.new([[2],
@@ -58,7 +58,7 @@ Table.new([[2],
 |-|-|-|
 | a  | b  | c |
 | ba | ba |   |
-
+{: .table}
 
 ```elixir
 iex> Table.new([]) == Table.new()
@@ -79,6 +79,7 @@ true
 |-|-|-|
 | 3 | 4 | 5 |
 |   | 6 |   |
+{: .table}
 
 ```elixir
 iex> Table.to_list(table)
@@ -101,7 +102,7 @@ iex> Table.to_list(table)
 |1|2|
 |-|-|
 |3|4|
-
+{: .table}
 
 ```elixir
 Table.insert_row(table)
@@ -109,10 +110,11 @@ Table.insert_row(table)
 
 Този код създава следната таблица:
 
-|                                 1 | 2 |
+|1 | 2 |
 |-|-|
-|                                 3 | 4 |
-|  |   |
+|3 | 4 |
+|||
+{: .table}
 
 ```elixir
 Table.insert_row(table, [5,6])
@@ -128,7 +130,7 @@ Table.insert_row(table, [5,6], 6)
 |-|-|
 | 3 | 4 |
 | 5 | 6 |
-
+{: .table}
 
 ```elixir
 Table.insert_row(table, [5,6], -10)
@@ -140,7 +142,7 @@ Table.insert_row(table, [5,6], 1)
 |-|-|
 | 1 | 2 |
 | 3 | 4 |
-
+{: .table}
 
 ```elixir
 Table.insert_row(table, [5,6], 2)
@@ -150,6 +152,7 @@ Table.insert_row(table, [5,6], 2)
 |-|-|
 | 5 | 6 |
 | 3 | 4 |
+{: .table}
 
 Функцията може да бъде извикана с по-голям или по-малък ред от досегашната големина на таблицата тогава поведението е следното:
 
@@ -162,7 +165,7 @@ Table.insert_row(table, [5,6,7])
 |-|-|-|
 | 3 | 4 |   |
 | 5 | 6 | 7 |
-
+{: .table}
 
 ```elixir
 Table.insert_row(table, [5])
@@ -172,6 +175,7 @@ Table.insert_row(table, [5])
 |-|-|
 | 3 | 4 |
 | 5 |   |
+{: .table}
 
 #### Table.insert_column(table, column \\\\ [], positon \\\\ :last)
 
@@ -190,6 +194,7 @@ Table.insert_row(table, [5])
 |-|-|-|
 | 3 | 4 | 5 |
 |   | 6 |   |
+{: .table}
 
 ```elixir
 iex> {new_table, row} = Table.delete(table); row
@@ -205,6 +210,7 @@ iex> {new_table, row} = Table.delete_row(table, :last); row
 | 1 | 2 |   |
 |-|-|-|
 | 3 | 4 | 5 |
+{: .table}
 
 ```elixir
 iex> {new_table, row} = Table.delete(table, 2); row
@@ -216,6 +222,7 @@ iex> {new_table, row} = Table.delete(table, 2); row
 | 1 | 2 |   |
 |-|-|-|
 |   | 6 |   |
+{: .table}
 
 ```elixir
 iex> {^table, row} = Table.delete(table, 0); row
@@ -248,9 +255,10 @@ iex> {^table, row} = Table.delete(table, 10); row
 
 CSV(Comma-separated values) форматът може да се използва за да се представи таблица. В този формат всеки ред от таблицата е изобразен в ред от файла, а отделните клетки в даден ред са отделени със запетаи. Например следната таблица:
 
-|     1 |   2.0 | three     |
+|1|2.0|three|
 |-|-|-|
 | Are | you | counting? |
+{: .table}
 
 би изглеждала така във csv формат
 
@@ -261,9 +269,10 @@ Are,you,counting?
 
 Важно е да се отбележи, че в csv формата има 3 специални символа: `"`, `,` и `\n`. Ако искаме някоя клетка да съдържа тези символи, то информацията за тази клетка трябва да започва и да завършва със `"`, а всички срещания на `"` вътре в клетката да бъдат заменени с `""`. Клетка също може да бъде празна. Например:
 
-| 1, 2.0, three |                                     |
+| 1, 2.0, three ||
 |-|-|
-|               | "Are  you  counting?" </br> He said |
+|| "Are  you  counting?" </br> He said |
+{: .table}
 
 би изглеждала така:
 
@@ -280,6 +289,7 @@ He said"
 |   1 | 2.0 | three     |
 |-|-|-|
 | Are | you | counting? |
+{: .table}
 
 би изглеждала така във HTML формат:
 
@@ -312,6 +322,7 @@ He said"
 |-|-|-|
 | Are | you | counting? |
 | Yes | No  | Maybe     |
+{: .table}
 
 Би изглеждало така:
 
@@ -334,7 +345,8 @@ He said"
 
 | a &gt; b |  \|\| | \(arr\[4\] &amp; 1\) == 0 | &amp;&amp; | p \- 7        |
 |-|-|-|-|-|
-| Are      | those | some                      | magic      | incantations? |
+| Are | those | some | magic | incantations? |
+{: .table}
 
 Ще изглежда така като стринг:
 
