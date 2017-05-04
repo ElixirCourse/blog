@@ -43,6 +43,14 @@ tags:
 
 - [Примерно решение](https://github.com/ElixirCourse/task-two/)
 
+### Задача 3
+
+- [Условие](https://blog.elixir-lang.bg/posts/task_three)
+
+- Краен срок 20:00 10.05.2017 г.
+
+- Точки 9
+
 ## Теми
 
 ### 1. Защо Elixir?
