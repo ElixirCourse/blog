@@ -110,10 +110,10 @@ Table.insert_row(table)
 
 Този код създава следната таблица:
 
-|1 | 2 |
+|1|2|
 |-|-|
-|3 | 4 |
-|||
+|3|4|
+| | |
 {: .table}
 
 ```elixir
@@ -271,7 +271,7 @@ Are,you,counting?
 
 | 1, 2.0, three ||
 |-|-|
-|| "Are  you  counting?" </br> He said |
+|| "Are  you  counting?" He said |
 {: .table}
 
 би изглеждала така:
