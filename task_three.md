@@ -197,7 +197,7 @@ Table.insert_row(table, [5])
 {: .table}
 
 ```elixir
-iex> {new_table, row} = Table.delete(table); row
+iex> {new_table, row} = Table.delete_row(table); row
 [nil, 6, nil]
 iex> {new_table, row} = Table.delete_row(table, 3); row
 [nil, 6, nil]
@@ -213,7 +213,7 @@ iex> {new_table, row} = Table.delete_row(table, :last); row
 {: .table}
 
 ```elixir
-iex> {new_table, row} = Table.delete(table, 2); row
+iex> {new_table, row} = Table.delete_row(table, 2); row
 [3, 4, 5]
 ```
 
@@ -225,9 +225,9 @@ iex> {new_table, row} = Table.delete(table, 2); row
 {: .table}
 
 ```elixir
-iex> {^table, row} = Table.delete(table, 0); row
+iex> {^table, row} = Table.delete_row(table, 0); row
 []
-iex> {^table, row} = Table.delete(table, 10); row
+iex> {^table, row} = Table.delete_row(table, 10); row
 []
 ```
 
