@@ -103,7 +103,7 @@ tags:
 
 ### 7.1. Контролни структури
 
-- [блог](https://elixir-lang.bg/posts/lists_streams_recursion)
+- [блог](https://elixir-lang.bg/posts/control_flow)
 
 ### 7.2. Грешки
 
