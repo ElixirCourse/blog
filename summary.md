@@ -137,4 +137,4 @@ tags:
 | Оценнка | 2 | 3 | 4 | 5 | 6 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Точки | 0 - 49 | 50 - 57 | 58 - 74 | 75 - 91 | 92 -&infin; |
-{: .table}
+{: .table .table-striped .table-bordered .table-hover}
