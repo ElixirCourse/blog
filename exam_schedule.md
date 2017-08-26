@@ -1,5 +1,4 @@
 category: Изпит
-pinned: true
 tags:
   - elixir
   - schedule
