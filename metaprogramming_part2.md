@@ -1,4 +1,4 @@
-title_image_path: metaprogramming2.jpg
+title_image_path: metaprogramming1.jpg
 category: Програма
 tags:
   - elixir
