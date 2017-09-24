@@ -1,8 +1,10 @@
 title_image_path: metaprogramming1.jpg
+title: Meta-програмиране в Elixir част 2
 category: Програма
 tags:
   - elixir
   - metaprogramming
+  - use
 --------
 
 # [От миналия път](https://elixir-lang.bg/posts/metaprogramming_part1)
