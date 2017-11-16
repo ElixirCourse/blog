@@ -492,7 +492,7 @@ defmodule Fibonachi do
 end
 
 {time, value} = :timer.tc(&Fibonachi.of/1, [40])
-IO.puts "Function took #{time} milliseconds to run" # => Function took 3687607 milliseconds to run
+IO.puts "Function took #{time} microseconds to run" # => Function took 3687607 microseconds to run
 ```
 
 Повече информация можете да прочетете на http://erlang.org/doc/man/timer.html
