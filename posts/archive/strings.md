@@ -1,5 +1,7 @@
+---
 title_image_path: strings.jpg
 category: Програма
+created_at: 2017-03-12T14:47:43
 tags:
   - elixir
   - binaries
@@ -8,7 +10,7 @@ tags:
   - strings
   - unicode
   - utf8
---------
+---
 
 # Низове
 

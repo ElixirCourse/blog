@@ -1,8 +1,8 @@
 ---
-title_image_path: why_elixir.jpg
+title_image_path: modules.jpg
 category: Програма
 author: Valentin Mihov
-created_at: 2017-03-11T10:26:14
+created_at: 2017-03-11T22:26:14
 tags:
   - elixir
   - modules

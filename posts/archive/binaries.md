@@ -1,12 +1,15 @@
+---
 title_image_path: binaries.jpg
 category: Програма
+author: Meddle
+created_at: 2017-03-21T12:00:00
 tags:
   - elixir
   - binaries
   - erlang
   - pattern matching
   - strings
---------
+---
 
 # Binaries
 
