@@ -1,13 +1,14 @@
-title_image_path: why_elixir.jpg
+---
 category: Програма
+title_image_path: why_elixir.jpg
+created_at: 2017-02-14T21:46:23
 tags:
   - elixir
   - introduction
   - erlang
   - phoenix
   - functional programming
-
---------
+---
 
 # Защо Elixir?
 

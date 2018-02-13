@@ -1,5 +1,7 @@
-title_image_path: basics.jpg
+---
 category: Програма
+title_image_path: basics.jpg
+created_at: 2017-02-26T16:49:24
 tags:
   - elixir
   - introduction
@@ -8,12 +10,11 @@ tags:
   - pattern matching
   - iex
   - nodes
-
---------
+---
 
 # Типове и съпоставяне на образци
 
-В предишната статия, ["Защо Elixir?"](http://blog.elixir-lang.bg/posts/why_elixir),
+В предишната статия, ["Защо Elixir?"](https://elixir-lang.bg/posts/archive/why_elixir),
 демонстрирахме някои основни синтактични структури в Elixir.
 Тази има за цел да е по-детайлна.
 Ще поговорим за определени, наистина базови свойства на езика.

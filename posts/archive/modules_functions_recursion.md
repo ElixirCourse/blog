@@ -1,13 +1,13 @@
-title_image_path: modules.jpg
+---
+title_image_path: why_elixir.jpg
 category: Програма
-author: valo
+author: Valentin Mihov
+created_at: 2017-03-11T10:26:14
 tags:
   - elixir
   - modules
   - functions
-  - recursion
-
---------
+---
 
 # Модули, функции и рекурсия
 

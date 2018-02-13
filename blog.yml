@@ -2,3 +2,12 @@ title: Курс по Elixir
 sub_title: Статии по темите преподавани в курса по Elixir във ФМИ
 logo_path: elixir_header_logo.png
 styles_path: blog.css
+social:
+  rss: true
+  stars_for_blogit: true
+en:
+  title: FMI Elixir Course
+  sub_title: The site/blog of the Bulgarian Elixir Course at FMI
+archive:
+  title: Курс по Elixir (Архив)
+  sub_title: Статии по темите от курса по Elixir във ФМИ (2017 година)
