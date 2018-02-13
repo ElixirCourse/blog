@@ -1,7 +1,7 @@
 ---
 title_image_path: modules.jpg
 category: Програма
-author: Valentin Mihov
+author: valo
 created_at: 2017-03-11T22:26:14
 tags:
   - elixir

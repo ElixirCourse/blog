@@ -1,5 +1,7 @@
+---
 title_image_path: keys.jpg
 category: Програма
+created_at: 2017-03-24T02:01:21
 tags:
   - elixir
   - map
@@ -7,7 +9,7 @@ tags:
   - dict
   - struct
   - module
---------
+---
 
 # Речници и структури
 

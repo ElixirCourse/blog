@@ -1,7 +1,7 @@
 ---
 title_image_path: binaries.jpg
 category: Програма
-author: Meddle
+author: meddle
 created_at: 2017-03-21T12:00:00
 tags:
   - elixir
