@@ -1,9 +1,12 @@
+---
 title_image_path: metaprogramming.jpg
 category: Програма
+created_at: 2017-05-29T10:55:08
+author: valo
 tags:
   - elixir
   - metaprogramming
---------
+---
 
 # Meta-програмиране в Elixir част 1
 

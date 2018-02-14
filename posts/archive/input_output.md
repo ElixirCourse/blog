@@ -1,5 +1,7 @@
+---
 title_image_path: input_output.gif
 category: Програма
+created_at: 2017-04-16T16:39:09
 tags:
   - elixir
   - IO
@@ -9,8 +11,7 @@ tags:
   - read
   - write
   - stream
-
---------
+---
 
 # Вход-изход
 

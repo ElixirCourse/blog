@@ -1,5 +1,7 @@
+---
 title_image_path: generic_communication.jpeg
 category: Програма
+created_at: 2017-05-12T21:10:36
 tags:
   - elixir
   - process
@@ -10,8 +12,7 @@ tags:
   - handle_cast
   - handle_call
   - handle_info
-
---------
+---
 
 # Процеси и OTP : GenServer
 

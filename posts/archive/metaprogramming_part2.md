@@ -1,13 +1,15 @@
+---
 title_image_path: metaprogramming.jpg
 title: Meta-програмиране в Elixir част 2
 category: Програма
+created_at: 2017-08-30T16:50:38
 tags:
   - elixir
   - metaprogramming
   - use
---------
+---
 
-## [От миналия път](https://elixir-lang.bg/posts/metaprogramming_part1)
+## [От миналия път](https://elixir-lang.bg/archive/posts/metaprogramming_part1)
 
 Последно се запознахме с AST-то на Elixir, видяхме [как прилича на LISP](https://www.youtube.com/watch?v=IZvpKhA6t8A&feature=youtu.be&t=12m10s) и как да боравим с него. Научихме се да използваме `quote` и `unquote`. Обърнахме операциите плюс и умножение с минус и деление. Накрая си написахме наша версия на `while` цикъл.  
 

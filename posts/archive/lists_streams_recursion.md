@@ -2,7 +2,7 @@
 title_image_path: streams.jpg
 category: Програма
 author: valo
-created_at: 2017-03-20T00:29:32
+created_at: 2017-03-30T00:29:32
 tags:
   - elixir
   - lists
