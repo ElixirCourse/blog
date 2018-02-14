@@ -1,5 +1,7 @@
+---
 title_image_path: application.jpg
 category: Програма
+created_at: 2017-05-15T20:26:35
 tags:
   - elixir
   - process
@@ -10,8 +12,7 @@ tags:
   - supervision
   - application
   - app
-
---------
+---
 
 # Процеси и OTP : Application
 

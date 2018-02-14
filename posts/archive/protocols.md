@@ -1,5 +1,7 @@
+---
 title_image_path: blueprints.jpg
 category: Програма
+created_at: 2017-03-29T18:27:02
 tags:
   - elixir
   - map
@@ -8,7 +10,7 @@ tags:
   - struct
   - module
   - emumerable
---------
+---
 
 # Протоколи
 

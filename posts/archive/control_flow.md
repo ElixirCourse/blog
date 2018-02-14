@@ -1,5 +1,7 @@
+---
 title_image_path: control_flow.jpg
 category: Програма
+created_at: 2017-04-08T13:19:07
 tags:
   - elixir
   - control flow
@@ -10,8 +12,7 @@ tags:
   - unless
   - cond
   - core erlang
-
---------
+---
 
 # Control Flow
 

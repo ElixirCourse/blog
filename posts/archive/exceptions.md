@@ -1,5 +1,7 @@
+---
 title_image_path: explosion.jpg
 category: Програма
+created_at: 2017-04-13T21:33:54
 tags:
   - elixir
   - exceptions
@@ -8,8 +10,7 @@ tags:
   - raise
   - try
   - catch
-
---------
+---
 
 # Грешки
 
