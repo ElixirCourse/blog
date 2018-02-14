@@ -2,6 +2,7 @@
 title_image_path: metaprogramming.jpg
 title: Meta-програмиране в Elixir част 2
 category: Програма
+author: NJichev
 created_at: 2017-08-30T16:50:38
 tags:
   - elixir

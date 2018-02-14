@@ -1,5 +1,7 @@
+---
 title_image_path: wrapper.jpg
 category: Програма
+created_at: 2017-05-21T21:04:15
 tags:
   - elixir
   - state
@@ -8,8 +10,7 @@ tags:
   - recursion
   - start_link
   - stop
-
---------
+---
 
 # Процеси и състояние
 
