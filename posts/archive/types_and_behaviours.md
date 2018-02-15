@@ -1,5 +1,7 @@
+---
 title_image_path: template.jpg
 category: Програма
+created_at: 2017-05-11T21:22:52
 tags:
   - elixir
   - typespec
@@ -9,8 +11,7 @@ tags:
   - spec
   - dialyzer
   - polymorphism
-
---------
+---
 
 # Тип-спецификации и поведения
 

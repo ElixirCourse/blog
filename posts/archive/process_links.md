@@ -1,5 +1,7 @@
+---
 title_image_path: links.jpg
 category: Програма
+created_at: 2017-05-09T21:33:57
 tags:
   - elixir
   - link
@@ -11,8 +13,7 @@ tags:
   - kill
   - normal
   - messages
-
---------
+---
 
 # Връзки между процеси
 

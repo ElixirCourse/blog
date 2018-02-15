@@ -1,5 +1,7 @@
+---
 title_image_path: supervisor.jpg
 category: Програма
+created_at: 2017-05-13T22:08:57
 tags:
   - elixir
   - process
@@ -12,8 +14,7 @@ tags:
   - one_for_all
   - rest_for_one
   - simple_one_for_one
-
---------
+---
 
 # Процеси и OTP : Supervisor
 

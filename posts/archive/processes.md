@@ -1,5 +1,7 @@
+---
 title_image_path: parallel.jpg
 category: Програма
+created_at: 2017-04-19T21:16:17
 tags:
   - elixir
   - erlang
@@ -12,8 +14,7 @@ tags:
   - concurrency
   - parallelism
   - scheduling
-
---------
+---
 
 # Процеси
 

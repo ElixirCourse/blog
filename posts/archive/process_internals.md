@@ -1,5 +1,7 @@
+---
 title_image_path: internals.png
 category: Програма
+created_at: 2017-04-24T21:50:52
 tags:
   - elixir
   - message queue
@@ -12,8 +14,7 @@ tags:
   - state
   - messages
   - recursion
-
---------
+---
 
 # Устройство и комуникация между процеси
 

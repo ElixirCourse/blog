@@ -1,4 +1,6 @@
+---
 title_image_path: tasks.png
+created_at: 2017-05-18T00:33:36
 category: Програма
 tags:
   - elixir
@@ -13,8 +15,7 @@ tags:
   - async
   - async_nolink
   - simple_one_for_one
-
---------
+---
 
 # Процеси и OTP : Задачи
 
