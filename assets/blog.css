@@ -6,6 +6,7 @@ header.header {
   color: white;
   display: flex;
   height: 155px;
+  margin-bottom: 0;
 }
 
 div.titles {
@@ -17,7 +18,7 @@ div.blog-logo {
   float: left;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
   header.header {
     height: 113px;
   }
@@ -36,10 +37,6 @@ div.blog-logo {
 
   .blog-sub {
     display: none;
-  }
-
-  .mobile-search {
-    margin-top: 20px;
   }
 
   div.blog-logo {
@@ -68,10 +65,6 @@ div.blog-logo {
     display: none;
   }
 
-  .mobile-search {
-    margin-top: 20px;
-  }
-
   div.blog-logo {
     padding-left: 0px;
   }
@@ -80,4 +73,17 @@ div.blog-logo {
 img.inline-image {
   width: 100%;
   height: auto;
+}
+
+.main-menu {
+  margin-bottom: 30px;
+}
+
+.main-menu .nav-pills > li.active > a {
+  background: #563c76;
+  color: white;
+}
+
+.main-menu .nav-pills > li > a {
+  color: #563c76;
 }
