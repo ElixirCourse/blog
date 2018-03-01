@@ -29,6 +29,7 @@ tags:
 ### 1. Защо Elixir?
 
 - [презентация](https://gitpitch.com/ElixirCourse/welcome_presentation_2018)
+- [статия](https://github.com/ElixirCourse/blog/blob/master/posts/materials/why_elixir.md)
 
 ### 2. Модули, функции, рекурсия и инструментът Mix
 
