@@ -36,7 +36,7 @@ tags:
 - [Модули, функции, рекурсия - статия](https://elixir-lang.bg/archive/posts/modules_functions_recursion)
 - [Инструментът Mix - статия](https://github.com/ElixirCourse/blog/blob/master/materials/mix_tool.md)
 
-### 3. Типове и съпоставяне на образци. Control flow
+### 3. Типове и съпоставяне на образци. Управляващи оператори/Управляващи конструкции/Конструкции за управление
 
 - [презентация](https://gitpitch.com/ElixirCourse/pattern_matching_and_other_things)
 - [Типове и съпоставяне на образци - статия](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
