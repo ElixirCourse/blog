@@ -55,3 +55,20 @@ tags:
 ### 6. Модулите Stream и Enum
 
 - [Списъци и потоци - статия](https://elixir-lang.bg/archive/posts/lists_streams_recursion)
+
+### 7. Низове (strings), символни списъци (char lists) и битови масиви (bit strings)
+
+- [презентация](https://gitpitch.com/ElixirCourse/binaries_and_strings_presentation/master)
+- [binaries](https://elixir-lang.bg/archive/posts/binaries)
+- [strings](https://elixir-lang.bg/archive/posts/strings)
+
+### 8. Конкурентно програмиране 1 - Tasks/Agents
+
+- [презентация](https://gitpitch.com/ElixirCourse/concurrency_tasks_and_agents/master)
+- [tasks](https://elixir-lang.bg/archive/posts/tasks)
+
+### 9. Структури, протоколи и вградени протоколи 
+
+- [презентация](https://gitpitch.com/ElixirCourse/structs_protocols/master)
+- [структури](https://elixir-lang.bg/archive/posts/maps_structs)
+- [протоколи](https://elixir-lang.bg/archive/posts/protocols)
