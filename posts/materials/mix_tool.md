@@ -1,6 +1,7 @@
 ---
 title_image_path: mixing_tools.jpg
 created_at: 2018-03-05T23:57:23
+category: Програма
 tags:
   - elixir
   - introduction

@@ -33,14 +33,15 @@ tags:
 
 ### 2. Модули, функции, рекурсия и инструментът Mix
 
-- [Модули, функции, рекурсия - статия](https://elixir-lang.bg/archive/posts/modules_functions_recursion)
-- [Инструментът Mix - статия](https://github.com/ElixirCourse/blog/blob/master/materials/mix_tool.md)
+- [публикация на тема 'Модули, функции, рекурсия' от миналата година](https://elixir-lang.bg/archive/posts/modules_functions_recursion)
+- [публикация на тема 'Инструментът Mix'](https://github.com/ElixirCourse/blog/blob/master/materials/mix_tool.md)
 
-### 3. Типове и съпоставяне на образци. Управляващи оператори/Управляващи конструкции/Конструкции за управление
+### 3. Типове и съпоставяне на образци и управляващи оператори
 
 - [презентация](https://gitpitch.com/ElixirCourse/pattern_matching_and_other_things)
-- [Типове и съпоставяне на образци - статия](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
-- [Control flow - статия](https://elixir-lang.bg/archive/posts/control_flow)
+- [публикация на тема 'Типове'](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
+- [публикация на тема 'Типове и съпоставяне на образци' от миналата година](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
+- [публикация на тема 'Управляващи оператори' от миналата година](https://elixir-lang.bg/archive/posts/control_flow)
 
 ### 4. Списъци и речници
 
@@ -72,3 +73,9 @@ tags:
 - [презентация](https://gitpitch.com/ElixirCourse/structs_protocols/master)
 - [структури](https://elixir-lang.bg/archive/posts/maps_structs)
 - [протоколи](https://elixir-lang.bg/archive/posts/protocols)
+
+### 10. Грешки и вход-изход
+
+- [презентация](https://gitpitch.com/ElixirCourse/exceptions_io)
+- [публикация на тема 'Грешки' от миналата година](https://elixir-lang.bg/archive/posts/exceptions)
+- [публикация на тема 'Вход-изход' от миналата година](https://elixir-lang.bg/archive/posts/input_output)
