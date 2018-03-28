@@ -1,6 +1,5 @@
 ---
 category: Домашно
-created_at: 2018-03-20T07:54:43
 author: njichev
 tags:
   - elixir
