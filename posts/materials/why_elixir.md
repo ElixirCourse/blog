@@ -1,6 +1,7 @@
 ---
 title_image_path: why_elixir.jpg
 created_at: 2018-02-22T01:23:23
+category: Програма
 tags:
   - elixir
   - introduction
