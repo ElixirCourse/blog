@@ -358,7 +358,7 @@ status = <?>
 Process.flag(:trap_exit, system_process)
 pid = spawn_link(action)
 
-exit(pid, status)
+Process.exit(pid, status)
 
 receive do
   msg -> IO.inspect(msg)
@@ -366,8 +366,8 @@ end
 ```
 
 ### Случай 1 : При `action = fn -> Process.sleep(20_000) end` и `status = :normal`
-1. При `system_process = false` : Нищо няма да се случи. Текущият процес продължава да чака докато изтекат 20-те секунди, процес не може да бъде 'убит' с `:normal`.
-2. При `system_process = true`  : Нищо няма да се случи. Текущият процес продължава да чака докато изтекат 20-те секунди, процес не може да бъде 'убит' с `:normal`.
+1. При `system_process = false` : Процесът с pid `pid` умира след 20 секунди със статус `:normal`. Текущият процес не е системен и не получава съобщение, затова продължава да чака неопределено време да получи някакво съобщение в `receive`.
+2. При `system_process = true`  : След 20 секунди получаваме съобщение `{:EXIT, <pid>, :normal}`.
 
 ### Случай 2 : При `action = fn -> Process.sleep(20_000) end` и `status = :stuff`
 1. При `system_process = false` : Грешка : `** (EXIT from <pid>) :stuff`. Текущият процес 'умира'.
