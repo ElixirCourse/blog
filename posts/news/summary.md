@@ -31,15 +31,15 @@ tags:
 - [презентация](https://gitpitch.com/ElixirCourse/welcome_presentation_2018)
 - [публикация](https://elixir-lang.bg/materials/posts/why_elixir)
 
-### 2. Модули, функции, рекурсия и инструментът Mix
+### 2. Модули, функции и инструментът Mix
 
-- [публикация на тема 'Модули, функции, рекурсия' от миналата година](https://elixir-lang.bg/archive/posts/modules_functions_recursion)
-- [публикация на тема 'Инструментът Mix'](https://github.com/ElixirCourse/blog/blob/master/materials/mix_tool.md)
+- [публикация на тема 'Инструментът Mix'](https://elixir-lang.bg/materials/posts/mix_tool)
+- [публикация на тема 'Модули, функции, рекурсия'](https://elixir-lang.bg/materials/posts/modules_and_functions)
 
 ### 3. Типове и съпоставяне на образци и управляващи оператори
 
 - [презентация](https://gitpitch.com/ElixirCourse/pattern_matching_and_other_things)
-- [публикация на тема 'Типове'](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
+- [публикация на тема 'Типове'](https://elixir-lang.bg/materials/posts/types)
 - [публикация на тема 'Типове и съпоставяне на образци' от миналата година](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
 - [публикация на тема 'Управляващи оператори' от миналата година](https://elixir-lang.bg/archive/posts/control_flow)
 
@@ -79,3 +79,13 @@ tags:
 - [презентация](https://gitpitch.com/ElixirCourse/exceptions_io)
 - [публикация на тема 'Грешки' от миналата година](https://elixir-lang.bg/archive/posts/exceptions)
 - [публикация на тема 'Вход-изход' от миналата година](https://elixir-lang.bg/archive/posts/input_output)
+
+### 11. Конкурентно програмиране 2 - Процеси
+
+- [презентация за запознаване с процесите](https://gitpitch.com/ElixirCourse/processes-presentation)
+- [презентация за устройство на процесите](https://gitpitch.com/ElixirCourse/process-internals-presentation)
+- [презентация за връзки и мониторинг между процеси](https://gitpitch.com/ElixirCourse/process_links_and_state_presentation)
+- [публикация на тема 'Процеси' от миналата година](https://elixir-lang.bg/archive/posts/processes)
+- [публикация на тема 'Процеси и състояние' от миналата година](https://elixir-lang.bg/archive/posts/processes_and_state)
+- [публикация на тема 'Устройство и комуникация между процеси' от миналата година](https://elixir-lang.bg/archive/posts/process_internals)
+- [публикация на тема 'Връзки между процеси' от миналата година](https://elixir-lang.bg/archive/posts/process_links)
