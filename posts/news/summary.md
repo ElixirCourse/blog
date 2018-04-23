@@ -40,14 +40,13 @@ tags:
 
 - [презентация](https://gitpitch.com/ElixirCourse/pattern_matching_and_other_things)
 - [публикация на тема 'Типове'](https://elixir-lang.bg/materials/posts/types)
-- [публикация на тема 'Типове и съпоставяне на образци' от миналата година](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
-- [публикация на тема 'Управляващи оператори' от миналата година](https://elixir-lang.bg/archive/posts/control_flow)
+- [публикация на тема 'Съпоставяне на образци и управляващи оператори'](https://elixir-lang.bg/materials/posts/pattern_matching_and_control_flow)
 
 ### 4. Списъци и речници
 
 - [презентация](https://gitpitch.com/ElixirCourse/lists-maps/master)
-- [Речници и структури - статия](https://elixir-lang.bg/archive/posts/maps_structs)
-- [Списъци и потоци - статия](https://elixir-lang.bg/archive/posts/lists_streams_recursion)
+- [публикация на тема 'Речници'](https://elixir-lang.bg/materials/posts/maps)
+- [публикация на тема 'Списъци и потоци' от миналата година](https://elixir-lang.bg/archive/posts/lists_streams_recursion)
 
 ### 5. Тестване в Elixir
 
@@ -63,7 +62,7 @@ tags:
 - [binaries](https://elixir-lang.bg/archive/posts/binaries)
 - [strings](https://elixir-lang.bg/archive/posts/strings)
 
-### 8. Конкурентно програмиране 1 - Tasks/Agents
+### 8. Конкурентно програмиране I : Tasks/Agents
 
 - [презентация](https://gitpitch.com/ElixirCourse/concurrency_tasks_and_agents/master)
 - [tasks](https://elixir-lang.bg/archive/posts/tasks)
@@ -80,7 +79,7 @@ tags:
 - [публикация на тема 'Грешки' от миналата година](https://elixir-lang.bg/archive/posts/exceptions)
 - [публикация на тема 'Вход-изход' от миналата година](https://elixir-lang.bg/archive/posts/input_output)
 
-### 11. Конкурентно програмиране 2 - Процеси
+### 11. Конкурентно програмиране II : Процеси
 
 - [презентация за запознаване с процесите](https://gitpitch.com/ElixirCourse/processes-presentation)
 - [презентация за устройство на процесите](https://gitpitch.com/ElixirCourse/process-internals-presentation)
@@ -89,3 +88,15 @@ tags:
 - [публикация на тема 'Процеси и състояние' от миналата година](https://elixir-lang.bg/archive/posts/processes_and_state)
 - [публикация на тема 'Устройство и комуникация между процеси' от миналата година](https://elixir-lang.bg/archive/posts/process_internals)
 - [публикация на тема 'Връзки между процеси' от миналата година](https://elixir-lang.bg/archive/posts/process_links)
+
+### 12. Тип-спецификации и поведения
+
+- [презентация](https://gitpitch.com/ElixirCourse/typespecs-behaviours)
+- [публикация от миналата година](https://elixir-lang.bg/archive/posts/types_and_behaviours)
+
+### 13. OTP I : GenServer, Supervisor и Application
+
+- [презентация](https://gitpitch.com/IvanIvanoff/otp_presentation#/)
+- [публикация на тема 'GenServer' от миналата година](https://elixir-lang.bg/archive/posts/gen_server)
+- [публикация на тема 'Supervisor' от миналата година](https://elixir-lang.bg/archive/posts/supervision)
+- [публикация на тема 'Application' от миналата година](https://elixir-lang.bg/archive/posts/application)
