@@ -54,18 +54,19 @@ tags:
 
 ### 6. Модулите Stream и Enum
 
-- [Списъци и потоци - статия](https://elixir-lang.bg/archive/posts/lists_streams_recursion)
+- [презентация](https://gitpitch.com/ElixirCourse/list-streams-presentation)
+- [публикация](https://elixir-lang.bg/materials/posts/enum_and_stream)
 
 ### 7. Низове (strings), символни списъци (char lists) и битови масиви (bit strings)
 
 - [презентация](https://gitpitch.com/ElixirCourse/binaries_and_strings_presentation/master)
-- [binaries](https://elixir-lang.bg/archive/posts/binaries)
-- [strings](https://elixir-lang.bg/archive/posts/strings)
+- [публикация на тема 'Binaries' от миналата година](https://elixir-lang.bg/archive/posts/binaries)
+- [публикация на тема 'Низове' от миналата година](https://elixir-lang.bg/archive/posts/strings)
 
 ### 8. Конкурентно програмиране I : Tasks/Agents
 
 - [презентация](https://gitpitch.com/ElixirCourse/concurrency_tasks_and_agents/master)
-- [tasks](https://elixir-lang.bg/archive/posts/tasks)
+- [публикация на тема 'Задачи' от миналата година](https://elixir-lang.bg/archive/posts/tasks)
 
 ### 9. Структури, протоколи и вградени протоколи 
 
@@ -100,3 +101,9 @@ tags:
 - [публикация на тема 'GenServer' от миналата година](https://elixir-lang.bg/archive/posts/gen_server)
 - [публикация на тема 'Supervisor' от миналата година](https://elixir-lang.bg/archive/posts/supervision)
 - [публикация на тема 'Application' от миналата година](https://elixir-lang.bg/archive/posts/application)
+
+### 14. Метапрограмиране
+
+- [презентация](https://gitpitch.com/ElixirCourse/metaprogramming)
+- [първа публикация на тема 'Метапрограмиране' от миналата година](https://elixir-lang.bg/archive/posts/metaprogramming_part1)
+- [втора публикация на тема 'Метапрограмиране' от миналата година](https://elixir-lang.bg/archive/posts/metaprogramming_part2)
