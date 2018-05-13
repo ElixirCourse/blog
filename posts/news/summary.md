@@ -60,13 +60,13 @@ tags:
 ### 7. Низове (strings), символни списъци (char lists) и битови масиви (bit strings)
 
 - [презентация](https://gitpitch.com/ElixirCourse/binaries_and_strings_presentation/master)
-- [публикация на тема 'Binaries' от миналата година](https://elixir-lang.bg/archive/posts/binaries)
-- [публикация на тема 'Низове' от миналата година](https://elixir-lang.bg/archive/posts/strings)
+- [публикация на тема 'Binaries'](https://elixir-lang.bg/materials/posts/binaries)
+- [публикация на тема 'Низове'](https://elixir-lang.bg/materials/posts/strings)
 
 ### 8. Конкурентно програмиране I : Tasks/Agents
 
 - [презентация](https://gitpitch.com/ElixirCourse/concurrency_tasks_and_agents/master)
-- [публикация на тема 'Задачи' от миналата година](https://elixir-lang.bg/archive/posts/tasks)
+- [публикация](https://elixir-lang.bg/materials/posts/concurrency_tasks_agents)
 
 ### 9. Структури, протоколи и вградени протоколи 
 
