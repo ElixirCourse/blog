@@ -57,7 +57,7 @@ tags:
 - [презентация](https://gitpitch.com/ElixirCourse/list-streams-presentation)
 - [публикация](https://elixir-lang.bg/materials/posts/enum_and_stream)
 
-### 7. Низове (strings), символни списъци (char lists) и битови масиви (bit strings)
+### 7. Низове (strings) и двоични структури (binaries)
 
 - [презентация](https://gitpitch.com/ElixirCourse/binaries_and_strings_presentation/master)
 - [публикация на тема 'Binaries'](https://elixir-lang.bg/materials/posts/binaries)
