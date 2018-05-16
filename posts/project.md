@@ -27,6 +27,7 @@ tags:
 |               60 |   10 |      18 |             32 |
 |               70 |   10 |      21 |             39 |
 |               80 |   10 |      24 |             46 |
+{: .table .table-striped .table-bordered .table-hover}
 
 ## Класификация на проектите
 
