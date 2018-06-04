@@ -57,7 +57,7 @@ tags:
 - [презентация](https://gitpitch.com/ElixirCourse/list-streams-presentation)
 - [публикация](https://elixir-lang.bg/materials/posts/enum_and_stream)
 
-### 7. Низове (strings), символни списъци (char lists) и битови масиви (bit strings)
+### 7. Низове (strings) и двоични структури (binaries)
 
 - [презентация](https://gitpitch.com/ElixirCourse/binaries_and_strings_presentation/master)
 - [публикация на тема 'Binaries'](https://elixir-lang.bg/materials/posts/binaries)
@@ -71,14 +71,13 @@ tags:
 ### 9. Структури, протоколи и вградени протоколи 
 
 - [презентация](https://gitpitch.com/ElixirCourse/structs_protocols/master)
-- [структури](https://elixir-lang.bg/archive/posts/maps_structs)
-- [протоколи](https://elixir-lang.bg/archive/posts/protocols)
+- [публикация на тема 'Структури'](https://elixir-lang.bg/materials/posts/structs)
+- [публикация на тема 'Протоколи'](https://elixir-lang.bg/materials/posts/protocols)
 
 ### 10. Грешки и вход-изход
 
 - [презентация](https://gitpitch.com/ElixirCourse/exceptions_io)
-- [публикация на тема 'Грешки' от миналата година](https://elixir-lang.bg/archive/posts/exceptions)
-- [публикация на тема 'Вход-изход' от миналата година](https://elixir-lang.bg/archive/posts/input_output)
+- [публикация](https://elixir-lang.bg/materials/posts/exceptions_and_io)
 
 ### 11. Конкурентно програмиране II : Процеси
 
