@@ -21,9 +21,9 @@ tags:
 
 Имате възможност да се откажете от **всичките** си точки от домашни и малък проект (15т + 15т + 30т) изкарани през семестъра и да напишете нови три задачи.
 Новите три задачи са:
-- [https://github.com/ElixirCourse/summer-task-one-2018]
-- [https://github.com/ElixirCourse/summer-task-two-2018]
-- [https://github.com/ElixirCourse/summer-task-three-2018]
+- <https://github.com/ElixirCourse/summer-task-one-2018>
+- <https://github.com/ElixirCourse/summer-task-two-2018>
+- <https://github.com/ElixirCourse/summer-task-three-2018>
 
 Третата задача съответства на малкия проект.
 
