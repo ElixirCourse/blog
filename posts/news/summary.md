@@ -24,6 +24,8 @@ tags:
 
 Можете да задавате въпроси на имейла: [course@elixir-lang.bg](mailto:course@elixir-lang.bg)
 
+Имаме Discord Server: <https://discord.gg/EZx7y67>
+
 ## Теми
 
 ### 1. Защо Elixir?
