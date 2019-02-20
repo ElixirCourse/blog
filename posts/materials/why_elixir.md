@@ -1,6 +1,6 @@
 ---
 title_image_path: why_elixir.jpg
-created_at: 2018-02-22T01:23:23
+created_at: 2019-02-21T00:09:23
 category: Програма
 tags:
   - elixir
