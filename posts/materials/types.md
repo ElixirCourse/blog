@@ -1,6 +1,7 @@
 ---
 title_image_path: basics.jpg
 category: Програма
+created_at: 2019-03-07T17:49:30
 tags:
   - elixir
   - introduction
