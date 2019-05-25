@@ -1,7 +1,7 @@
 ---
 title_image_path: blueprints.jpg
 category: Програма
-created_at: 2018-05-11T13:43:12
+created_at: 2019-03-11T13:43:12
 tags:
   - elixir
   - map
