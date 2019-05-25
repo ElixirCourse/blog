@@ -2,6 +2,7 @@
 title_image_path: streams.jpg
 category: Програма
 author: valo, meddle
+created_at: 2019-03-06T20:00:00
 tags:
   - elixir
   - enum
