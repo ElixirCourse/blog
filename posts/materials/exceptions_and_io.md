@@ -1,6 +1,7 @@
 ---
 category: Програма
 title_image_path: input_output.gif
+created_at: 2019-03-12T13:43:12
 tags:
   - elixir
   - exceptions
