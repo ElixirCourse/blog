@@ -1,6 +1,7 @@
 ---
 title_image_path: keys.jpg
 category: Програма
+created_at: 2019-03-06T19:00:00
 tags:
   - elixir
   - map
