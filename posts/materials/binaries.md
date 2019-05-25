@@ -1,7 +1,7 @@
 ---
 title_image_path: binaries.jpg
 category: Програма
-created_at: 2019-03-18T22:42:00
+created_at: 2019-03-07T17:00:00
 tags:
   - elixir
   - binaries
