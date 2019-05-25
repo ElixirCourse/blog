@@ -1,7 +1,7 @@
 ---
 title_image_path: flow.jpg
 category: Програма
-created_at: 2018-04-17T10:00:00
+created_at: 2019-03-06T18:00:00
 tags:
   - elixir
   - basics
