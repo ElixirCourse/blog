@@ -1,7 +1,7 @@
 ---
 title_image_path: parallel.jpg
 category: Програма
-created_at: 2018-05-20T10:32:21
+created_at: 2019-05-20T10:32:21
 tags:
   - elixir
   - erlang
