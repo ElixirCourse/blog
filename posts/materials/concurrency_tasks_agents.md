@@ -1,7 +1,7 @@
 ---
 category: Програма
 title_image_path: tasks.png
-created_at: 2018-05-04T12:12:12
+created_at: 2019-03-07T17:10:12
 tags:
   - elixir
   - process
