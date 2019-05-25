@@ -1,6 +1,7 @@
 ---
 title_image_path: tuples.jpg
 category: Програма
+created_at: 2019-03-06T19:10:00
 tags:
   - elixir
   - tuples
