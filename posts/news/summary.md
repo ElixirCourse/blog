@@ -1,5 +1,6 @@
 ---
 category: Ресурси
+created_at: 2023-02-22T08:00:00
 pinned: true
 tags:
   - elixir
