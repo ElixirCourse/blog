@@ -1,5 +1,5 @@
 ---
-title_image_path: git_logo.jpg
+title_image_path: git_logo.png
 category: Програма
 created_at: 2023-02-24T17:00:00
 tags:
