@@ -2,7 +2,7 @@
 title_image_path: LMAP_August_research.jpg
 category: Програма
 created_at: 2019-05-24T23:35:12
-author: Reductions, IvanIvanoff
+author: Reductions, ivan
 pinned: true
 tags:
   - elixir

@@ -1,6 +1,6 @@
 ---
 category: Проект
-author: ivanivanoff
+author: ivan
 tags:
   - elixir
   - exam
