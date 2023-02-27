@@ -1,14 +1,19 @@
 ---
 title_image_path: basics.jpg
 category: Програма
-created_at: 2019-03-06T17:49:30
+created_at: 2023-02-27T10:00
+author: valo, meddle, ivan
 tags:
   - elixir
-  - introduction
-  - functional programming
-  - immutablility
-  - iex
-  - nodes
+  - integer
+  - float
+  - string
+  - tuple
+  - list
+  - map
+  - keyword list
+  - order
+  - immutability
 ---
 
 # Основни типове
@@ -170,6 +175,7 @@ nil || {:error, "unexpected nil result"}
 Атомите са важна част от Elixir. За запознатите с Ruby – еквивалентни са на символите.
 
 > Атомите никога не се изчистват от Garbage Collector механизма. Затова е важно тяхната употреба да е разумна. Важно правило е, че никога не трябва да конвертирате стойност към атом, ако тази стойност е подадена от потребителя или външния свят. Неконтролираното създаване на нови атоми може да доведе то прекратяване на работата на програмата и виртуалната машина поради изчерпване на паметта.
+> Функцията `String.to_existing_atom/1` може да бъде използване, за да се конвертира низ към атом, ако той вече съществува. Ако не съществува се вдига грешка `ArgumentError`.
 
 ```elixir
 :atom

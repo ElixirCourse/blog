@@ -1,6 +1,7 @@
 ---
 title_image_path: lists.jpg
 category: Програма
+author: valo, meddle
 created_at: 2023-02-26T16:00
 tags:
   - elixir

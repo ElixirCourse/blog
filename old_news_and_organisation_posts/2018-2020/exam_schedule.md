@@ -1,7 +1,7 @@
 ---
 title_image_path: LMAP_August_research.jpg
 category: Изпит
-author: IvanIvanoff
+author: ivan
 pinned: true
 tags:
   - elixir
