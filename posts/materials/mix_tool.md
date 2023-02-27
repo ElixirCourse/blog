@@ -1,6 +1,6 @@
 ---
 title_image_path: mixing_tools.jpg
-created_at: 2023-02-27T11:00
+created_at: 2023-02-27T10:00:00
 author: ivan
 category: Програма
 tags:
