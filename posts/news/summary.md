@@ -45,3 +45,9 @@ tags:
 - [презентация](https://slides.elixir-lang.bg/slides/why_elixir.html)
 - [публикация](https://elixir-lang.bg/materials/posts/why_elixir)
 - [Livebook код](https://slides.elixir-lang.bg/slides/why_elixir.livemd)
+
+### 2. Модули, функции и Mix
+
+- [презентация](https://slides.elixir-lang.bg/slides/modules_functions.html)
+- [публикация](https://elixir-lang.bg/materials/posts/modules_and_functions)
+- [Livebook код](https://slides.elixir-lang.bg/slides/modules_functions.livemd)
