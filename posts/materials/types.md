@@ -1,7 +1,7 @@
 ---
 title_image_path: basics.jpg
 category: Програма
-created_at: 2023-02-27T10:00
+created_at: 2023-02-27T10:00:00
 author: valo, meddle, ivan
 tags:
   - elixir
