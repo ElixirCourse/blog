@@ -49,5 +49,6 @@ tags:
 ### 2. Модули, функции и Mix
 
 - [презентация](https://slides.elixir-lang.bg/slides/modules_functions.html)
-- [публикация](https://elixir-lang.bg/materials/posts/modules_and_functions)
+- [публикация - Модули и функции](https://elixir-lang.bg/materials/posts/modules_and_functions)
+- [публикация - Инструментът Mix](https://elixir-lang.bg/materials/posts/mix_tool)
 - [Livebook код](https://slides.elixir-lang.bg/slides/modules_functions.livemd)
