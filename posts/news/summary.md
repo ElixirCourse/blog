@@ -75,3 +75,10 @@ tags:
 - [публикация - Структури](https://elixir-lang.bg/materials/posts/structs)
 - [публикация - Протоколи](https://elixir-lang.bg/materials/posts/protocols)
 - [Livebook код](https://slides.elixir-lang.bg/slides/structs_protocols.livemd)
+
+### 5. Низове и binaries
+
+- [презентация](https://slides.elixir-lang.bg/slides/binaries_and_strings.html)
+- [публикация - Binaries](https://elixir-lang.bg/materials/posts/binaries)
+- [публикация - Низове](https://elixir-lang.bg/materials/posts/strings)
+- [Livebook код](https://slides.elixir-lang.bg/slides/binaries_and_strings.livemd)
