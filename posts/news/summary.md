@@ -55,7 +55,7 @@ tags:
 - [Livebook код](https://slides.elixir-lang.bg/slides/modules_functions.livemd)
 
 
-### 3. Tипове и основни конструкции]
+### 3. Tипове и основни конструкции
 
 - [презентация](https://slides.elixir-lang.bg/slides/types_pattern_matching_and_more.html)
 - [публикация - Основни типове](https://elixir-lang.bg/archive/posts/pattern_matching_types_and_basics)
@@ -63,3 +63,12 @@ tags:
 - [публикация - Кортежи и списъци от ключове и стойности](https://elixir-lang.bg/materials/posts/tuples_and_keyword_lists)
 - [публикация - Списъци и потоци](https://elixir-lang.bg/materials/posts/enum_and_stream)
 - [Livebook код](https://slides.elixir-lang.bg/slides/types_pattern_matching_and_more.livemd)
+
+
+### 4. Структури и протоколи
+
+- [презентация](https://slides.elixir-lang.bg/slides/structs_protocols.html)
+- [публикация - Речници](https://elixir-lang.bg/materials/posts/maps)
+- [публикация - Структури](https://elixir-lang.bg/materials/posts/structs)
+- [публикация - Протоколи](https://elixir-lang.bg/materials/posts/protocols)
+- [Livebook код](https://slides.elixir-lang.bg/slides/structs_protocols.livemd)
