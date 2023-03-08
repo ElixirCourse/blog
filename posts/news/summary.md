@@ -1,7 +1,9 @@
 ---
 category: Ресурси
 created_at: 2023-02-22T08:00:00
+updated_at: 2023-03-08T12:00:00
 pinned: true
+author: Team
 tags:
   - elixir
   - resources
