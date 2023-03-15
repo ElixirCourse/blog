@@ -82,3 +82,12 @@ tags:
 - [публикация - Binaries](https://elixir-lang.bg/materials/posts/binaries)
 - [публикация - Низове](https://elixir-lang.bg/materials/posts/strings)
 - [Livebook код](https://slides.elixir-lang.bg/slides/binaries_and_strings.livemd)
+
+### 6. Увод в конкурентно програмиране с Elixir. Процеси, комуникация между процеси и връзки между процеси
+
+- [презентация](https://slides.elixir-lang.bg/slides/processes.html)
+- [публикация - Процеси](https://elixir-lang.bg/archive/posts/processes)
+- [публикация - Процеси и състояние](https://elixir-lang.bg/archive/posts/processes_and_state)
+- [публикация - Устройство и комуникация между процеси](https://elixir-lang.bg/archive/posts/process_internals)
+- [публикация - Връзки между процеси](https://elixir-lang.bg/archive/posts/process_links)
+- [Livebook код](https://slides.elixir-lang.bg/slides/processes.livemd)
