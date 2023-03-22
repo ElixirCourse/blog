@@ -100,6 +100,6 @@ tags:
 ### 8. Конкурентно програмиране с Elixir. Поведението GenServer
 
 - [презентация](https://slides.elixir-lang.bg/slides/genserver.html)
-- [публикация - GenServer](https://elixir-lang.bg/posts/posts/gen_server)
+- [публикация - GenServer](https://elixir-lang.bg/materials/posts/gen_server)
 - [Livebook код](https://slides.elixir-lang.bg/slides/genserver.livemd)
 - [FileBuffer демо код](https://github.com/ElixirCourse/code2023/tree/master/file_buffer)
