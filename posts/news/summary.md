@@ -91,3 +91,15 @@ tags:
 - [публикация - Устройство и комуникация между процеси](https://elixir-lang.bg/archive/posts/process_internals)
 - [публикация - Връзки между процеси](https://elixir-lang.bg/archive/posts/process_links)
 - [Livebook код](https://slides.elixir-lang.bg/slides/processes.livemd)
+
+### 7. Конкуректно програмиране с Elixir. Task и Agent
+
+- [презентация](https://slides.elixir-lang.bg/slides/agents_and_tasks.html)
+- [публикация - Task и Agent](https://elixir-lang.bg/materials/posts/concurrency_tasks_agents)
+
+### 8. Конкурентно програмиране с Elixir. Поведението GenServer
+
+- [презентация](https://slides.elixir-lang.bg/slides/genserver.html)
+- [публикация - GenServer](https://elixir-lang.bg/posts/posts/gen_server)
+- [Livebook код](https://slides.elixir-lang.bg/slides/genserver.livemd)
+- [FileBuffer демо код](https://github.com/ElixirCourse/code2023/tree/master/file_buffer)
