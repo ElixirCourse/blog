@@ -1,7 +1,7 @@
 ---
 category: Ресурси
 created_at: 2023-02-22T08:00:00
-updated_at: 2023-03-08T12:00:00
+updated_at: 2023-03-29T22:00:00
 pinned: true
 author: Team
 tags:
@@ -103,3 +103,11 @@ tags:
 - [публикация - GenServer](https://elixir-lang.bg/materials/posts/gen_server)
 - [Livebook код](https://slides.elixir-lang.bg/slides/genserver.livemd)
 - [FileBuffer демо код](https://github.com/ElixirCourse/code2023/tree/master/file_buffer)
+
+### 9. Supervisor и Application
+
+- [презентация](https://slides.elixir-lang.bg/slides/supervisors_and_applications.html)
+
+### 10. Разглеждане на проект с GenServer, Supervisor и Application
+
+- Лекцията протече под формата на разглеждане на реализиран малък проект и дискусия върху него с присъстващите.
