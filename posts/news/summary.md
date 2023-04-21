@@ -104,7 +104,7 @@ tags:
 - [Livebook код](https://slides.elixir-lang.bg/slides/genserver.livemd)
 - [FileBuffer демо код](https://github.com/ElixirCourse/code2023/tree/master/file_buffer)
 
-### 9. Supervisor и Application
+### 9. Конкуретно прогрмиране с Elixir. Поведенията Supervisor и Application
 
 - [презентация](https://slides.elixir-lang.bg/slides/supervisors_and_applications.html)
 
@@ -112,3 +112,29 @@ tags:
 
 - Няма презентация.
 - Лекцията протече под формата на разглеждане на реализиран малък проект и дискусия върху него с присъстващите.
+- [код](https://github.com/ElixirCourse/code2023/tree/master/asynch)
+
+### 11. Грешки, работа с грешки и IO
+
+- [презентация](https://slides.elixir-lang.bg/slides/exceptions_io.html)
+- [Livebook код](https://slides.elixir-lang.bg/slides/ets.livemd)
+- [публикация - грешки](https://elixir-lang.bg/archive/posts/exceptions)
+- [публикация - IO](https://elixir-lang.bg/archive/posts/input_output)
+- [код](https://github.com/ElixirCourse/code2023/tree/master/ecio)
+- [код](https://github.com/ElixirCourse/code2023/tree/master/simple_logger)
+
+### 12 и 13. Метапрограмиране I. Метапрограмиране II
+
+- [презентация](https://slides.elixir-lang.bg/slides/metaprogramming.html)
+- [публикация](https://elixir-lang.bg/materials/posts/metaprogramming_part1)
+- [публикация](https://elixir-lang.bg/materials/posts/metaprogramming_part2)
+
+### 14. ETS
+
+- [презентация](https://slides.elixir-lang.bg/slides/ets.html)
+- [Livebook код](https://slides.elixir-lang.bg/slides/ets.livemd)
+
+### 15. Дистрибутиран Elixir I
+
+- [презентация](https://slides.elixir-lang.bg/slides/distributed_elixir.html)
+- [Livebook код](https://slides.elixir-lang.bg/slides/distributed_elixir.livemd)
